@@ -1,0 +1,9 @@
+# Logok
+*.log
+
+# Titkok
+.env
+
+# Build kimenet
+build/
+dist/
